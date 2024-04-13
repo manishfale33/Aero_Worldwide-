@@ -1,0 +1,39 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 13 Apr 2024 20:07:25 at https://www.agolworld.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.agolworld.com/ -O1 "M:\New folder (7)\agol" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:08:00	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.agolworld.com/)
+20:08:23	Error: 	"Not Found" (404) at link https://www.agolworld.com/time.critical@agolworld.com (from https://www.agolworld.com/)
+20:08:44	Error: 	"Not Found" (404) at link https://www.agolworld.com/contact.html (from https://www.agolworld.com/)
+20:08:53	Error: 	"Not Found" (404) at link https://www.agolworld.com/assets/images/banner/counter-shape.png (from https://www.agolworld.com/)
+20:08:53	Error: 	"Not Found" (404) at link https://www.agolworld.com/blog-details.html (from https://www.agolworld.com/)
+20:08:57	Error: 	"Forbidden" (403) at link https://kit.fontawesome.com/your-license-key.js (from https://www.agolworld.com/)
+20:09:17	Error: 	"Not Found" (404) at link https://www.agolworld.com/assets/fonts/fa-brands-400.woff2 (from https://www.agolworld.com/assets/css2/icons.css)
+20:09:17	Error: 	"Not Found" (404) at link https://www.agolworld.com/assets/fonts/fa-brands-400.ttf (from https://www.agolworld.com/assets/css2/icons.css)
+20:09:17	Error: 	"Not Found" (404) at link https://www.agolworld.com/assets/fonts/fa-duotone-900.woff2 (from https://www.agolworld.com/assets/css2/icons.css)
+20:09:17	Error: 	"Not Found" (404) at link https://www.agolworld.com/assets/fonts/fa-duotone-900.ttf (from https://www.agolworld.com/assets/css2/icons.css)
+20:09:18	Error: 	"Not Found" (404) at link https://www.agolworld.com/assets/images/banner/cta-bg.jpg (from https://www.agolworld.com/assets/css2/style.css)
+20:09:18	Error: 	"Not Found" (404) at link https://www.agolworld.com/assets/images/banner/price-bg.jpg (from https://www.agolworld.com/assets/css2/style.css)
+20:09:18	Error: 	"Not Found" (404) at link https://www.agolworld.com/assets/images/banner/step-1.jpg (from https://www.agolworld.com/assets/css2/style.css)
+20:09:18	Error: 	"Not Found" (404) at link https://www.agolworld.com/assets/images/banner/doted-shape1.png (from https://www.agolworld.com/assets/css2/style.css)
+20:09:18	Error: 	"Not Found" (404) at link https://www.agolworld.com/assets/images/banner/feature-bg.jpg (from https://www.agolworld.com/assets/css2/style.css)
+20:09:18	Error: 	"Not Found" (404) at link https://www.agolworld.com/assets/images/banner/cta-bg2.jpg (from https://www.agolworld.com/assets/css2/style.css)
+20:09:18	Error: 	"Not Found" (404) at link https://www.agolworld.com/assets/images/banner/test-2.jpg (from https://www.agolworld.com/assets/css2/style.css)
+20:09:18	Error: 	"Not Found" (404) at link https://www.agolworld.com/assets/img2/banner/testimonial-bg.jpg (from https://www.agolworld.com/assets/css2/style.css)
+20:09:18	Error: 	"Not Found" (404) at link https://www.agolworld.com/assets2/assets/img/favicon.png (from https://www.agolworld.com/about_us)
+20:09:18	Error: 	"Not Found" (404) at link https://www.agolworld.com/assets/css/style.css (from https://www.agolworld.com/about_us)
+20:09:18	Error: 	"Not Found" (404) at link https://www.agolworld.com/index.html (from https://www.agolworld.com/about_us)
+20:09:18	Error: 	"Not Found" (404) at link https://www.agolworld.com/contacts_us (from https://www.agolworld.com/about_us)
+20:09:18	Error: 	"Not Found" (404) at link https://www.agolworld.com/service-details.html (from https://www.agolworld.com/industries)
+20:09:18	Error: 	"Not Found" (404) at link https://www.agolworld.com/l.html (from https://www.agolworld.com/assets/js2/swiper.min.js)
+20:09:18	Error: 	"Not Found" (404) at link https://www.agolworld.com/e.html (from https://www.agolworld.com/assets/js2/swiper.min.js)
+20:09:18	Error: 	"Not Found" (404) at link https://www.agolworld.com/t.params.html (from https://www.agolworld.com/assets/js2/swiper.min.js)
+20:09:22	Error: 	"Not Found" (404) at link https://www.agolworld.com/assets/css2/-negative.svg (from https://themejunction.net/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.14.1)
+20:09:22	Error: 	"Not Found" (404) at link https://www.agolworld.com/assets/css2/OPR/ (from https://themejunction.net/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.14.1)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 57 seconds : 213 links scanned, 184 files written (127227673 bytes overall) [120370941 bytes received at 1028811 bytes/sec], 10525544 bytes transferred using HTTP compression in 132 files, ratio 33%, 10.1 requests per connection
+(28 errors, 0 warnings, 0 messages)

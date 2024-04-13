@@ -17457,7 +17457,7 @@
   font-style: normal;
   font-weight: var(--tp-fw-regular);
   font-display: block;
-  src: url("../fonts/fa-brands-400.html") format("woff2"), url("../fonts/fa-brands-401.html") format("truetype");
+  src: url("../fonts/fa-brands-400.woff2") format("woff2"), url("../fonts/fa-brands-400.ttf") format("truetype");
 }
 
 .fab,
@@ -19480,7 +19480,7 @@
   font-style: normal;
   font-weight: 900;
   font-display: block;
-  src: url("../fonts/fa-duotone-900.html") format("woff2"), url("../fonts/fa-duotone-901.html") format("truetype");
+  src: url("../fonts/fa-duotone-900.woff2") format("woff2"), url("../fonts/fa-duotone-900.ttf") format("truetype");
 }
 
 .fad,
@@ -40584,11 +40584,11 @@
 
 @font-face {
   font-family: "flaticon_logistics";
-  src: url("../fonts2/flaticon_logistics568b568b.ttf?8c6ae531f7019d47f2df38c3cbe39703") format("truetype"),
-    url("../fonts2/flaticon_logistics568b568b.woff?8c6ae531f7019d47f2df38c3cbe39703") format("woff"),
-    url("../fonts2/flaticon_logistics568b568b.woff2?8c6ae531f7019d47f2df38c3cbe39703") format("woff2"),
-    url("../fonts2/flaticon_logistics568b568b.eot?8c6ae531f7019d47f2df38c3cbe39703#iefix") format("embedded-opentype"),
-    url("../fonts2/flaticon_logistics568b568b.svg?8c6ae531f7019d47f2df38c3cbe39703#flaticon_logistics") format("svg");
+  src: url("../fonts2/flaticon_logistics568b.ttf?8c6ae531f7019d47f2df38c3cbe39703") format("truetype"),
+    url("../fonts2/flaticon_logistics568b.woff?8c6ae531f7019d47f2df38c3cbe39703") format("woff"),
+    url("../fonts2/flaticon_logistics568b.woff2?8c6ae531f7019d47f2df38c3cbe39703") format("woff2"),
+    url("../fonts2/flaticon_logistics568b.eot?8c6ae531f7019d47f2df38c3cbe39703#iefix") format("embedded-opentype"),
+    url("../fonts2/flaticon_logistics568b.svg?8c6ae531f7019d47f2df38c3cbe39703#flaticon_logistics") format("svg");
 }
 
 i[class^="flaticon-"]:before,

@@ -2545,7 +2545,7 @@ div .tj-service-icon-box2 ul li:hover .service-item::before {
 }
 
 .tj-cta-section-three {
-    background: url(../images/banner/cta-bg.html);
+    background: url(../images/banner/cta-bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -2653,7 +2653,7 @@ div .tj-service-icon-box2 ul li:hover .service-item::before {
     08. Price CSS
 ------------------------------------ */
 .tj-price-section {
-    background: url(../images/banner/price-bg.html);
+    background: url(../images/banner/price-bg.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -3152,7 +3152,7 @@ div .tj-service-icon-box2 ul li:hover .service-item::before {
     12. Step CSS
 ------------------------------------ */
 .tj-step-section {
-    background-image: url(../images/banner/step-1.html);
+    background-image: url(../images/banner/step-1.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -3272,7 +3272,7 @@ div .tj-service-icon-box2 ul li:hover .service-item::before {
     visibility: hidden;
     transition: 0.4s;
     height: 100%;
-    background: url(../images/banner/doted-shape1.html);
+    background: url(../images/banner/doted-shape1.png);
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -3674,7 +3674,7 @@ div .tj-service-icon-box2 ul li:hover .service-item::before {
     14. Feature CSS
 ------------------------------------ */
 .tj-choose-us-section {
-    background-image: url(../images/banner/feature-bg.html);
+    background-image: url(../images/banner/feature-bg.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -3712,7 +3712,7 @@ div .tj-service-icon-box2 ul li:hover .service-item::before {
 }
 
 .tj-choose-us-section-two {
-    background: url(../images/banner/cta-bg2.html);
+    background: url(../images/banner/cta-bg2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -4867,7 +4867,7 @@ div .tj-service-icon-box2 ul li:hover .service-item::before {
 }
 
 .tj-testimonial-section.tj-testimonial-page {
-    background: url(../images/banner/test-2.html);
+    background: url(../images/banner/test-2.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -4938,7 +4938,7 @@ div .tj-service-icon-box2 ul li:hover .service-item::before {
 
 .tj-testimonial-section-two {
     padding-bottom: 175px;
-    background: url(../img2/banner/testimonial-bg.html);
+    background: url(../img2/banner/testimonial-bg.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
